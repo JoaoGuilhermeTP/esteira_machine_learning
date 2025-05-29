@@ -25,6 +25,7 @@ O notebook executa todas as etapas essenciais de um pipeline de machine learning
 3. Abra o arquivo `esteira_ml.ipynb` no Jupyter Notebook ou VS Code e execute as células sequencialmente.
 
 ## Vídeo de Demonstração
+https://www.youtube.com/watch?v=n0qkZO2dk7s
 
 
 ## Autor
