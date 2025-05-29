@@ -1,6 +1,6 @@
 # Esteira de Aprendizado de Máquina – Projeto 2
 
-Este repositório contém um notebook Jupyter que implementa uma esteira completa de aprendizado de máquina utilizando o conjunto de dados Iris do UCI Machine Learning Repository.
+Este repositório contém um notebook Jupyter que implementa uma esteira completa de aprendizado de máquina utilizando o conjunto de dados Adult (Census Income) do UCI Machine Learning Repository.
 
 ## Descrição do Projeto
 O notebook executa todas as etapas essenciais de um pipeline de machine learning:
@@ -15,24 +15,22 @@ O notebook executa todas as etapas essenciais de um pipeline de machine learning
 ## Como Executar
 1. Clone este repositório:
    ```sh
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd <nome_da_pasta>
+   git clone https://github.com/JoaoGuilhermeTP/esteira_machine_learning.git
+   cd esteira_machine_learning
    ```
 2. Instale as dependências necessárias (recomenda-se o uso de um ambiente virtual):
    ```sh
-   pip install pandas numpy matplotlib seaborn scikit-learn scipy
+   pip install -r requirements.txt
    ```
 3. Abra o arquivo `esteira_ml.ipynb` no Jupyter Notebook ou VS Code e execute as células sequencialmente.
 
 ## Vídeo de Demonstração
-[![Assista ao vídeo explicativo do projeto](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 
-> Substitua `SEU_VIDEO_ID` pelo ID do vídeo no YouTube após o upload.
 
 ## Autor
-- Nome: [Seu Nome]
-- E-mail: [Seu E-mail]
+- Nome: João Guilherme Tasca Pereira
+- E-mail: adm.joaoguilherme@gmail.com
 
 ---
 
-Este projeto foi desenvolvido para fins acadêmicos e demonstração de uma esteira de aprendizado de máquina completa.
+Este projeto foi desenvolvido para fins acadêmicos e demonstração de uma esteira de aprendizado de máquina completa utilizando o dataset Adult (Census Income).
